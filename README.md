@@ -31,7 +31,7 @@ As you can see below, a similar window to the one that we saw before has appeare
 <img src="https://github.com/Rastallworth1/Active-Directory-Creating-and-Managing-groups/blob/main/slide%202.jpg"/>
 <br />
 <br />
-Similar to creating User accounts, only the block with the red Asterisks is required.  You can add additional information in the Description and Notes if desired. Once you are done, click OK to have the group created.<br/>
+Similar to creating User accounts, only the blocks with the red Asterisks is required.  You can add additional information in the Description and Notes if desired. Once you are done, click OK to have the group created.<br/>
 
 
 
