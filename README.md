@@ -22,12 +22,12 @@ Now let’s add a new group. If you browse through the existing groups, you will
 <br />
 To create a new group, use the same menu that you used for creating a new user, but this time select the new Group option.<br/>
 <br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%202.png"/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Creating-and-Managing-groups/blob/main/slide%201%20bottom.jpg"/>
 <br />
 
 
 <br />
-For this home lab, we want to create a new user called Reggie. First, click on the example (local) entry. This is the entry for the domain that your account can manage. Next, scroll down and double click on the Users entry to see the list of users and groups that currently exist.<br/>
+As you can see below, a similar window to the one that we saw before has appeared, but this time it requires the data for the Group rather than the user.<br/>
 <img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%202.png"/>
 <br />
 
