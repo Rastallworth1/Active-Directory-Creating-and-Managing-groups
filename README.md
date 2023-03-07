@@ -36,13 +36,13 @@ Similar to creating User accounts, only the block with the red Asterisks is requ
 
 
 <br />
-Now we want to add the C Plus Developers group to the Developers group that already exists. We can do this by scrolling down to the new entry and then right clicking on the entry in the list and selecting the Add to another group entry.. <br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%203.png"/>
+Now we want to add the C Plus Developers group to the Developers group that already exists. We can do this by scrolling down to the new entry and then right clicking on the entry in the list and selecting the Add to another group entry. <br/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Creating-and-Managing-groups/blob/main/slide%203.jpg"/>
 <br />
 
 
 <br />
-This will open a new window that lets you fill in a number of fields related to the new user. There are numerous fields available, but only a few are mandatory, which are marked with a read asterisk. You can leave the rest empty. The user that we are creating is called Reggie, with their username being also Reggie.<br/>
+This will open a small window where we need to enter the name of the group. In this case, the group is called Developers. You can use the Check Names button to verify that you have entered the name correctly. If you have, it will underline the text. If the name is incorrect, it will show a window saying "Name Not Found.<br/>
 <img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%204.png"/>
 <br />
 <br />Once you've entered the necessary information, click the OK button to create the user (Reggie). 
