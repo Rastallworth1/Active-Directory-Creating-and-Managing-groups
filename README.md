@@ -17,7 +17,12 @@ Active Directory is a core tool for System Administrators that need to manage Wi
 
 <p align="center">
 Now let’s add a new group. If you browse through the existing groups, you will see that there's a group called Developers and a group called Java Developers. We now want to add an additional group, called C Plus Developers. We will add the new group to the Developers group.<br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/AD%20Home.png"/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Creating-and-Managing-groups/blob/main/slide%201.jpg"/>
+<br />
+<br />
+To create a new group, use the same menu that you used for creating a new user, but this time select the new Group option.<br/>
+<br/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%202.png"/>
 <br />
 
 
