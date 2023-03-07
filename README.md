@@ -49,48 +49,19 @@ This will open a small window where we need to enter the name of the group. In t
 
 
 <br />
-To verify, we will double click the Python Developers entry in the list, which will open up an editing window for the group.<br/>
+To verify, we will double click the Python Developers entry in the list, which will open up an editing window for the group. Scroll down until you find the Members section of this window, or you can click on the Members link on the left. This section will show that C Plus Developers are a part of the larger Developers group. <br/>
 <img src="https://github.com/Rastallworth1/Active-Directory-Creating-and-Managing-groups/blob/main/slide%204%20top.jpg"/>
 <br />
 <br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-and-Managing-groups/blob/main/slide%204%20top.jpg"/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Creating-and-Managing-groups/blob/main/slide%204%20bottom.jpg"/>
 <br />
-  <br />
-Lets try to enable Reggie's account. What happens if you right click on the entry and try to Enable it? The system will not enable an account unless you have a strong password that meets your organizations guidelines. In this case, the password is weak because we haven't set it. Obviously, an empty password is not a strong password. <br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%206%20Top.png"/>
-<br />
-<br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%206%20bottom.png"/>
-<br />
-
-
-  <br />
-You can set a password using the Reset password menu option. This will allow the administator to enable the account. Another good practice is to have the User change the password at next logon. This can be done by selecting the change password at next logon option, this will ensure that the user will change their password when they log in. The goal here is to ensure that only the user knows their password and not the System Administrator. <br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%207%20top.png"/>
-<br />
-<br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%207%20bottom.png"/>
-<br />
+ 
 
   
-<br />
-Once you've set a strong password, you can retry enabling the account. This time it should work. <br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%209.png"/>
-<br />
-<br />
-As you can see in the above slide, the account (Reggie) has been enabled and you now have the option to disable it. <br/>
-
-
-
-  
-  
-  
-  
-  
 
 
 <br />
-This was a simple Active Directory Home Lab / Tutorial thats demonstrates the proper steps to create a User Account.<br/>
+This was a simple Active Directory Home Lab / Tutorial thats demonstrates the proper steps to create a group and add it to a larger group.<br/>
 
 
 
