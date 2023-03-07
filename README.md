@@ -50,9 +50,11 @@ This will open a small window where we need to enter the name of the group. In t
 
 <br />
 To verify, we will double click the Python Developers entry in the list, which will open up an editing window for the group.<br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%205.png"/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Creating-and-Managing-groups/blob/main/slide%204%20top.jpg"/>
 <br />
-
+<br/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Creating-and-Managing-groups/blob/main/slide%204%20top.jpg"/>
+<br />
   <br />
 Lets try to enable Reggie's account. What happens if you right click on the entry and try to Enable it? The system will not enable an account unless you have a strong password that meets your organizations guidelines. In this case, the password is weak because we haven't set it. Obviously, an empty password is not a strong password. <br/>
 <img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%206%20Top.png"/>
