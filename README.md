@@ -42,17 +42,14 @@ Now we want to add the C Plus Developers group to the Developers group that alre
 
 
 <br />
-This will open a small window where we need to enter the name of the group. In this case, the group is called Developers. You can use the Check Names button to verify that you have entered the name correctly. If you have, it will underline the text. If the name is incorrect, it will show a window saying "Name Not Found.<br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%204.png"/>
+This will open a small window where we need to enter the name of the group. In this case, the group is called Developers. You can use the Check Names button to verify that you have entered the name correctly. If you have, it will underline the text. If the name is incorrect, it will show a window saying "Name Not Found. Clicking the OK button will add the C Plus Developers group to the Developers group. <br/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Creating-and-Managing-groups/blob/main/Slide%203%20bottom.jpg"/>
 <br />
-<br />Once you've entered the necessary information, click the OK button to create the user (Reggie). 
-<br/>
-
 
 
 
 <br />
-Once you click on the newly created account, you will see that where it displays the name of the user, the system says Reggie (Disabled). This is a problem, but it can be easily fixed by enabling it. <br/>
+To verify, we will double click the Python Developers entry in the list, which will open up an editing window for the group.<br/>
 <img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%205.png"/>
 <br />
 
