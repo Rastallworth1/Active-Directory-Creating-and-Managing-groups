@@ -28,12 +28,15 @@ To create a new group, use the same menu that you used for creating a new user, 
 
 <br />
 As you can see below, a similar window to the one that we saw before has appeared, but this time it requires the data for the Group rather than the user.<br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%202.png"/>
+<img src="https://github.com/Rastallworth1/Active-Directory-Creating-and-Managing-groups/blob/main/slide%202.jpg"/>
 <br />
+<br />
+Similar to creating User accounts, only the block with the red Asterisks is required.  You can add additional information in the Description and Notes if desired. Once you are done, click OK to have the group created.<br/>
 
 
+
 <br />
-Now, lets create a new user. First, take a look at the tasks list on the right. Under the Users section, there's a New menu entry, which opens a submenu to select what's the type of entity that you want to create. In this case, we want to create a new user, so click User. <br/>
+Now we want to add the C Plus Developers group to the Developers group that already exists. We can do this by scrolling down to the new entry and then right clicking on the entry in the list and selecting the Add to another group entry.. <br/>
 <img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%203.png"/>
 <br />
 
